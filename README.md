@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Mickie's Blog
 
-You can use the [editor on GitHub](https://github.com/Jeepster1107/Mickster/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I started my journey with Microsoft like many of you; using Word, Excel, Publisher, etc. but one day at work I noticed there was a program installed on my machine that I was unfamiliar with and that program was called SharePoint. From this point on I found a solution to share files with collegues across the US, because we did not have network drives. Since then I have grown my skills in almost all the on-prem versions of SharePoint, and now into Microsoft 365. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jeepster1107/Mickster/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
